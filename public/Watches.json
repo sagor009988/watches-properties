@@ -1,0 +1,33 @@
+[
+    {
+      "id": 1,
+      "brandname": "Rolexxdddd",
+      "price": 5000,
+      "color": "red"
+    },
+    {
+      "id": 2,
+      "brandname": "Casio",
+      "price": 100,
+      "color": "Black"
+    },
+    {
+      "id": 3,
+      "brandname": "Seiko",
+      "price": 300,
+      "color": "Gold"
+    },
+    {
+      "id": 4,
+      "brandname": "Fossil",
+      "price": 150,
+      "color": "Brown"
+    },
+    {
+      "id": 5,
+      "brandname": "Tag Heuer",
+      "price": 8000,
+      "color": "Blue"
+    }
+  ]
+  
